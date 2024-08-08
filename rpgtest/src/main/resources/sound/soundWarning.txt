@@ -1,0 +1,1 @@
+SOUND MUST BE 16 bit and .wav file type or this method doesn't work (still sounds the same)
